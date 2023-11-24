@@ -90,7 +90,11 @@ export default async function InvoicesTable({
                         className="rounded-full"
                         width={28}
                         height={28}
+<<<<<<< HEAD
                         alt={"TES"}
+=======
+                        alt={""}
+>>>>>>> ab8474ddbd913cfa6356fe1ab7770f1ef68c73ec
                       />
                       <p>{invoice.name}</p>
                     </div>
